@@ -57,3 +57,10 @@ body {
 .center {
   text-align: center;
 }
+
+.whats {
+  position: fixed;
+  bottom: 5px;
+  right: 5px;
+  width: 60px;
+}
